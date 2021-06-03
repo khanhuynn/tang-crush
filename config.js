@@ -9,8 +9,8 @@ const CONFIG = {
     btnReply: 'Gửi cho công chúa ♥️',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'last but not least ',
-    messDesc: 'I know that your day has been STRESSFUL ',
-    messDesc: 'BUT REMEMBER ',
-    messDesc: 'That I will always be there for you ',
+    messDesc: 'I know that your day has been STRESSFUL
+                         BUT REMEMBER
+                That I will always be there for you ',
     messLink: 'https://www.facebook.com/lim.choding.9/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
